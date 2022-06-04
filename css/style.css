@@ -297,6 +297,10 @@ cite{
         font-family: 'Lato', sans-serif;
         font-weight: 400;
     }
+
+    .image{
+        max-width: fit-content;
+    }
 }
 
 /* Body end */
