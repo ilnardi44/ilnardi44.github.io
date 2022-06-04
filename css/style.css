@@ -225,8 +225,12 @@ body{
 .bottoni{
     display: flex;
     justify-content: center;
-
 }
+
+.image{
+    justify-content: center;
+}
+
 
 @media (max-width: 55em){
     .paragraph{
