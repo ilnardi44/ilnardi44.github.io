@@ -238,6 +238,11 @@ q{
     font-style: italic;
 }
 
+cite{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
 @media (max-width: 55em){
     .paragraph{
         padding-left: 3vh;
