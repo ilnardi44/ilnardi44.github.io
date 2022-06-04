@@ -214,6 +214,7 @@ body{
     padding: 14px 40px;
     border: black 1px solid;
     color: white;
+    cursor: pointer;
 }
 
 .buttons-text{
