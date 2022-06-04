@@ -212,7 +212,6 @@ body{
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 10px;
     padding: 14px 40px;
     border: black 1px solid;
     color: white;
@@ -299,7 +298,7 @@ cite{
     }
 
     .image{
-        max-width: fit-content;
+        width: auto;
     }
 }
 
