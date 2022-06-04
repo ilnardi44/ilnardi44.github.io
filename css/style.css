@@ -233,6 +233,10 @@ body{
     text-align:center;
 }
 
+q{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
 
 @media (max-width: 55em){
     .paragraph{
