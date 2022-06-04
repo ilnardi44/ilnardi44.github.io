@@ -238,7 +238,7 @@ q{
     font-style: italic;
 }
 
-cite{
+cite .signature{
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
 }
