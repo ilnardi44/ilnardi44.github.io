@@ -160,6 +160,16 @@ body{
     font-family: 'Lato', sans-serif;
 }
 
+.question{
+    padding-left: 3vh;
+    padding-right: 3vh;
+    padding-top: 5px;
+    font-weight: 400;
+    font-size: 21px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
 .title-interview{
     padding-left: 3vh;
     padding-top: 5px;
