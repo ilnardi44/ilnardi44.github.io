@@ -215,6 +215,10 @@ body{
     padding-left: 3vh;
 }
 
+.interparagraph{
+    font-size: 18px;
+}
+
 .buttons{
     background-color: #00ABE1;
     border: none;
