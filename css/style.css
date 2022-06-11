@@ -258,6 +258,10 @@ cite{
     font-style: italic;
 }
 
+.link-paragraph{
+    color: #161F6D;
+}
+
 @media (max-width: 55em){
     .paragraph{
         padding-left: 3vh;
@@ -430,4 +434,9 @@ footer{
         padding: 14px 40px;
         border: black 1px solid;
     }
+
+    .link-paragraph{
+        color: #00ABE1;
+    }
+
 }
