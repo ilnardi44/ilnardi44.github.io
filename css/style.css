@@ -172,6 +172,7 @@ body{
 
 .directors-picture{
     margin-left: 5px;
+    width: 200px;
 }
 
 .title-interview{
@@ -347,6 +348,11 @@ cite{
     .line{
         max-width: 90%;
         margin-left: 3vh;
+    }
+
+    .directors-picture{
+        margin-left: 5px;
+        width: 150px;
     }
 }
 
