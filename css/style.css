@@ -170,6 +170,10 @@ body{
     font-weight: bold;
 }
 
+.directors-picture{
+    margin-left: 5px;
+}
+
 .title-interview{
     padding-left: 3vh;
     padding-top: 5px;
@@ -276,6 +280,11 @@ cite{
     padding-top: 5px;
 }
 
+.line{
+    max-width: 90%;
+    margin-left: 5vh;
+}
+
 @media (max-width: 55em){
     .paragraph{
         padding-left: 3vh;
@@ -331,6 +340,11 @@ cite{
 
     .image{
         width: auto;
+    }
+
+    .line{
+        max-width: 90%;
+        margin-left: 3vh;
     }
 }
 
